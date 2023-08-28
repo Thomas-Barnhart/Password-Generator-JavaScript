@@ -28,7 +28,7 @@ THEN the password is either displayed in an alert or written to the page
 
 # Mock-up Image of Site
 
-![Password Generator Image](./assets/images/Screenshot-of-working-site)
+![Password Generator Image](./assets/images/Screenshot-of-working-site.png)
 
 # Link to Live Site
 
